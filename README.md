@@ -1,16 +1,49 @@
-# rock_in_rio
+# Rock In Rio
 
-A new Flutter project.
+Seu primeiro aplicativo em Flutter.
 
-## Getting Started
+Consiste em exibir informações básicas do Rock in Rio.
 
-This project is a starting point for a Flutter application.
+## O que irá aprender
 
-A few resources to get you started if this is your first Flutter project:
+- Anatomia de aplicativos em Flutter.
+- Compor widgets para montar layouts.
+- Criar seu próprio widget customizado.
+- Importar fontes e imagens.
+- Navegação.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Anatomia de aplicativos em Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Conhecer a estrutura de pastas, arquivos e ponto de partida do aplicativo.
+
+### Compor widgets para montar layouts
+
+Ao final, você terá conhecido os seguintes widgets:
+
+- MaterialApp
+- Scaffold
+- Container
+- Column
+- Row
+- Padding
+- Spacer
+- Card
+- Icon
+
+### Criar seu próprio widget customizado
+
+Vamos identificar quando devemos criar nossos próprios widgets, para facilitar o desenvolvimento, deixar nosso código mais enxuto e de fácil entendimento.
+
+### Personalização
+
+Utilizamos o RaisedButton para mostrar como é fácil customizar um widget.
+
+### Importar fontes e imagens
+
+Utilizando uma imagem como banner e a fonte Righteous para deixar nosso aplicativo com um design único.
+
+### Navegação
+
+Não queremos que o usuário fique apenas em 1 tela, certo?
+
+### Screenshots

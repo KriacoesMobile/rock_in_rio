@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'constantes.dart';
 
 /// Todo aplicativo Flutter é iniciado no método main()
-///
 void main() => runApp(
       RockInRio(),
     );
@@ -14,6 +13,7 @@ class RockInRio extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Rock In Rio',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         //Indica a "paleta de cores" do aplicativo.
         primarySwatch: Colors.indigo,
