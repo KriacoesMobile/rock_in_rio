@@ -48,8 +48,4 @@ Não queremos que o usuário fique apenas em 1 tela, certo?
 
 ### Screenshots
 
-<img src="https://github.com/flutter-para-iniciantes/rock_in_rio/blob/master/screenshots/home.png" width="350px">
-
-<img src="https://github.com/flutter-para-iniciantes/rock_in_rio/blob/master/screenshots/shows.png" width="350px">
-
-<img src="https://github.com/flutter-para-iniciantes/rock_in_rio/blob/master/screenshots/agenda.png" width="350px">
+<img src="https://github.com/flutter-para-iniciantes/rock_in_rio/blob/master/screenshots/home.png" width="300px"> <img src="https://github.com/flutter-para-iniciantes/rock_in_rio/blob/master/screenshots/shows.png" width="300px"><img src="https://github.com/flutter-para-iniciantes/rock_in_rio/blob/master/screenshots/agenda.png" width="300px">

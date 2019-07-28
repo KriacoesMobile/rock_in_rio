@@ -13,7 +13,6 @@ class RockInRio extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Rock In Rio',
-      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         //Indica a "paleta de cores" do aplicativo.
         primarySwatch: Colors.indigo,
